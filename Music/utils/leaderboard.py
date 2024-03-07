@@ -55,7 +55,7 @@ class Leaderboard:
         text += "\n**🧡 Enjoy Streaming! Have Fun!**"
         return text
 
-    async def broadcast(self, hellbot, text, buttons):
+    async def broadcast(self, Unbot, text, buttons):
         start = time.time()
         success = failed = count = 0
         chats = await db.get_all_chats()
