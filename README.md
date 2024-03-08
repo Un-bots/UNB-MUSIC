@@ -66,6 +66,7 @@ This is a light weight source, as a result it gives faster and better performanc
 - Copy your fork link and paste it [here](https://github.com/un-bots/UNB-MUSIC/deploy-to-heroku#generate-deploy-url)
 - You'll get the deploy url, open it and you are good to go.
 
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/un-bots/UNB-MUSIC)
 ------
 ## 🚀 Deploy Locally
 
