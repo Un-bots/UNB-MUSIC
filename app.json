@@ -1,20 +1,20 @@
 {
-	"name": "HellMusic",
+	"name": "Sanatni Music",
 	"description": "A telegram voice chat music player bot by The-Hellbot, coded in python using Pyrogram and PyTgCalls",
-	"logo": "https://te.legra.ph/file/7decf235312af8536e9aa.jpg",
+	"logo": "https://te.legra.ph//file/24d1e1214a026e8e72f8a.jpg",
 	"keywords": [
 		"telegram",
 		"musicbot",
 		"python",
 		"pyrogram",
 		"pytgcalls",
-		"hellbot",
+		"Unbot",
 		"modular",
 		"productivity",
 		"music",
-		"hellbot"
+		"Sanatnibot"
 	],
-	"repository": "https://github.com/The-HellBot/HellMusic/",
+	"repository": "https://github.com/un-bots/UNB-MUSIC/",
 	"env": {
         "API_HASH": {
             "description": "Get this value from my.telegram.org",
