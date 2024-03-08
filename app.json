@@ -14,7 +14,7 @@
 		"music",
 		"Sanatnibot"
 	],
-	"repository": "https://github.com/un-bots/UNB-MUSIC/",
+	"repository": "https://github.com/The-HellBot/MUSIC/",
 	"env": {
         "API_HASH": {
             "description": "Get this value from my.telegram.org",
