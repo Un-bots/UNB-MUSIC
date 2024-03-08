@@ -1,13 +1,13 @@
 <h1 align="center">
-  <b>✨ †hê Hêllẞø† - ᴍᴜsɪᴄ 🎶</b>
+  <b>✨ ѕαηαтηι - ᴍᴜsɪᴄ 🎶</b>
 </h1>
 
 <p align="center">
-  <img src="https://te.legra.ph/file/5d5642103804ae180e40b.jpg" alt="The-HellBot" width=500 height=300>
+  <img src="https://te.legra.ph//file/988729c979a7ac3f70c73.jpg" alt="The-HellBot" width=500 height=300>
 </p>
 
 <h6 align="center">
-  <b>⚡ ʟɛɢɛռɖaʀʏ ᴀғ ɦɛʟʟɮօt ⚡</b>
+  <b>⚡ ʟɛɢɛռɖaʀʏ ᴀғ υηɮօt ⚡</b>
 </h6>
 
 <h3 align="center">
@@ -19,24 +19,24 @@
 
   [![Documentation](https://img.shields.io/badge/Documentations-docs.hellbot.tech-white?&style=social&logo=gitbook)](https://hellbot.tech)
   
-  ![GitHub forks](https://img.shields.io/github/forks/The-HellBot/Music?style=social)
-  ![GitHub Repo stars](https://img.shields.io/github/stars/The-HellBot/Music?style=social)
+  ![GitHub forks](https://img.shields.io/github/forks/un-bots/Unb-Music?style=social)
+  ![GitHub Repo stars](https://img.shields.io/github/stars/un-bots/Unb-Music?style=social)
   
   ![Maintenance](https://img.shields.io/badge/Maintained%3F-Yes-white?&style=social&logo=hugo)
   ![Python](https://img.shields.io/badge/Python-v3.11-white?style=social&logo=python)
   
-  ![GitHub language count](https://img.shields.io/github/languages/count/The-HellBot/Music?&style=social&logo=hyper)
+  ![GitHub language count](https://img.shields.io/github/languages/count/un-bots/Unb-Music?&style=social&logo=hyper)
   [![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UC7Jr0FnRApx5nJASUfOjqJQ?style=social)](https://youtube.com/channel/UC7Jr0FnRApx5nJASUfOjqJQ)
   
-  [![Telegram Group](https://img.shields.io/badge/Telegram-Group-white?&style=social&logo=telegram)](https://t.me/hellbot_chat)
-  [![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-white?&style=social&logo=telegram)](https://t.me/its_hellbot)
+  [![Telegram Group](https://img.shields.io/badge/Telegram-Group-white?&style=social&logo=telegram)](https://t.me/un_w0rld)
+  [![Telegram Channel](https://img.shields.io/badge/Telegram-Channel-white?&style=social&logo=telegram)](https://t.me/unb_info)
   
 </h3>
 
 ------
-## 🎶 HellBot Music ![Version](https://img.shields.io/github/v/release/The-HellBot/Music?color=black&logo=github&logoColor=black&style=social)
+## 🎶 Sanatni Music ![Version](https://img.shields.io/github/v/release/un-bots/Unb-Music?color=black&logo=github&logoColor=black&style=social)
 
-🎶 HellBot Music is a long awaited project from The-HellBot. This bot can stream songs on your telegram group voice chats.
+🎶 Sanatani Music is a long awaited project from un-bots. This bot can stream songs on your telegram group voice chats.
 
 This is a light weight source, as a result it gives faster and better performance.
 
@@ -47,12 +47,12 @@ This is a light weight source, as a result it gives faster and better performanc
   - Smooth and fast.
   - Less Bugs.
   - Global Leaderboard support.
-> More features are listed at [docs.hellbot.tech](https://docs.hellbot.tech/)
+> More features are listed at [docs.bot.tech](https://docs.hellbot.tech/)
 
 ### 📣 Support
 - Found a bug? Or need help with something?
 
-> Fell free to reach us at [@HellBot_Chats](https://t.me/HellBot_Chats) to report a bug or get assistance to your problem.
+> Fell free to reach us at [@un_w0rld](https://t.me/un_w0rld) to report a bug or get assistance to your problem.
 
 > We will appreciate feature requests from you all.
 
